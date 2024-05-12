@@ -2,7 +2,8 @@
 
 This project dives into pizza order data to uncover key insights and trends. It explores customer preferences, popular pizza choices, revenue patterns, and more through a series of targeted queries. The ultimate goal of this project is to provide actionable information that can help a pizza business optimize its operations, menu, and marketing strategies. 
 
-# Dataset Link: https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales/data
+# Dataset Link:
+https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales/data
 
 # Dataset Information: 
 A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.

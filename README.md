@@ -1,2 +1,31 @@
 # pizza-sales-sql-project
-Pizza sale sql project 
+SQL for Data Analysis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

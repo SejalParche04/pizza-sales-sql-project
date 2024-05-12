@@ -1,5 +1,6 @@
-# pizza-sales-sql-project
-SQL for Data Analysis 
+# Pizza Sales Data Analysis using SQL
+
+This project dives into pizza order data to uncover key insights and trends. It explores customer preferences, popular pizza choices, revenue patterns, and more through a series of targeted queries. The ultimate goal of this project is to provide actionable information that can help a pizza business optimize its operations, menu, and marketing strategies. 
 
 
 
